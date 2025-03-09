@@ -20,4 +20,3 @@ public class WebMvcConfig implements WebMvcConfigurer {
 }
     
     // ... rest of your configuration
-}
