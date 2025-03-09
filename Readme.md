@@ -15,6 +15,6 @@ spring_profiles_active=prod
 PROD_DB_HOST=mysql.railway.internal
 PROD_DB_PORT=3306
 PROD_DB_NAME=railway
-PROD_DB_PASSWORD=jysaChFejoJJKObdfZMVEiQkOSSDYFEn
+PROD_DB_PASSWORD=qwBlsygjdyIWnIAFWyoYAMttlpCvSBiW
 PROD_DB_USERNAME=root
 ```
